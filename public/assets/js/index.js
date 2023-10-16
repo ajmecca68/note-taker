@@ -127,6 +127,7 @@ const handleRenderBtns = () => {
   }
 };
 
+
 // Render the list of note titles
 const renderNoteList = async (notes) => {
   let jsonNotes = await notes.json();
