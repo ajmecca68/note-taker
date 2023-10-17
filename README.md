@@ -29,7 +29,7 @@ Alan Mecca
 This project is licensed under the MIT License.
 
 ## Questions
-GITHUB: https://github.com/alanmecca
+GITHUB: https://github.com/ajmecca68
 
 EMAIL: [amecca1968@gmail.com](mailto:amecca1968@gmail.com)
 
